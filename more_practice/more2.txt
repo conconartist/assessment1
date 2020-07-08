@@ -1,0 +1,15 @@
+instance:
+Bella Bear, the Labradoodle
+
+attributes:
+
+var canBreathe = true
+var owner = "Connie"
+var numberOfLegs = 4
+var diet = ["Natural Balance", "Bully Sticks", "Eggs"]
+var MonthlyVetCosts = 100
+
+methods:
+
+change_diet: ["Blue Buffalo", "Bully Sticks", "Eggs"]
+vet_visit: 350
