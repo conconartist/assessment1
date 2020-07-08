@@ -1,0 +1,16 @@
+class Pets
+
+attributes:
+
+canBreathe (boolean)
+owner (string)
+numberOfLegs (integer)
+diet (array)
+vetCosts (float)
+
+methods:
+
+change_diet (affects diet)
+vet_visit (affects vetCosts)
+sign_adoption_papers (affects owner)
+amputate_leg (affects numberOfLegs)
